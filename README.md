@@ -1,4 +1,4 @@
-## [titel van jullie game]
+## The Rift Guardian
 Project team:[jullie namen]
 
 Platform:
