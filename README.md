@@ -1,11 +1,11 @@
 ## The Rift Guardian
-Project team:[jullie namen]
+Project team: Eliza Voets, Délysha Orsel, Safwan Almashnouk, Wessel De Groot, Gino Schaap, Jasper, Keith, Jonas, Job, Florian Bruijn, Owen, Raphael, Randy, Max, Milad, Phoenix, Bo, Robin, Aness
 
 Platform:
 Unreal Engine
 
 ### Korte omschrijving van de game
-...
+Rift Guardian is een VR-Shooter die zich plaats find op een onbekende planeet. In deze VR-Shooter moet je drie verschillende vijanden elimineren om currency te krijgen. Het spel gaat oneindig door. De speler kan gebruik maken van de weide collectie aan wapens en items die het spel heeft om deze enemies te elimineren.
 
 ---
 #### Producten Werkproces 1
