@@ -12,24 +12,24 @@ Rift Guardian is een VR-Shooter die zich plaats find op een onbekende planeet. I
 | Product  | Link |
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog](https://unreal-academy.codecks.io/decks)
-| Logboek (pdf)                             | [Logboek]
-| Game concept doc (pdf)                    | [GameDesignDoc]
+| Logboek (pdf)                             | [Logboek](https://mediacollegeamsterdam.sharepoint.com/:w:/r/teams/XR-labHLO/Gedeelde%20documenten/General/Stand-ups%20-%20VRShooter%202024%20-%20Periode%204.docx?d=w0cf309a08e9349c8b20631380ddeb72d&csf=1&web=1&e=1H9rk5)
+| Game concept doc (pdf)                    | [GameDesignDoc](https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp)
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
-| Logboek (pdf)                                             | [Logboek]
-| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
-| Opnames standups (Teams opnames)                          | [Folder op teams]
+| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]()
+| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]()
+| Logboek (pdf)                                             | [Logboek]()
+| Opnames sprint retrospectives (Teams opnames)             | [Folder op teams](https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint5?csf=1&web=1&e=fFpCcE)
+| Opnames standups (Teams opnames)                          | [Folder op teams]()
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
+| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen](https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint%206/Retrospective?csf=1&web=1&e=97JQAi)
 | Sprint review verslagen (pdf)         | [ReviewVerslagen]
 | Link naar online speelbaar prototype  | [Prototype]
 | Logboek (pdf)                         | [Logboek]
