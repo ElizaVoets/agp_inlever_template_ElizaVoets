@@ -19,7 +19,7 @@ Rift Guardian is een VR-Shooter die zich plaats find op een onbekende planeet. I
 #### Producten Werkproces 2
 | Product  | Link |
 | ------ |  ------ |
-| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog]()
+| Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog](https://unreal-academy.codecks.io/decks/109-product-backlog)
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen](https://mediacollegeamsterdam.sharepoint.com/:b:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint5/RetroSpective.pdf?csf=1&web=1&e=oIz8pu)
 | Logboek (pdf)                                             | [Logboek]()
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams](https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint5?csf=1&web=1&e=fFpCcE)
@@ -29,10 +29,10 @@ Rift Guardian is een VR-Shooter die zich plaats find op een onbekende planeet. I
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]()
-| Sprint review verslagen (pdf)         | [ReviewVerslagen]()
+| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/blob/master/producten/Sprint%206/Retrospective%20materials/Retrospective_Verslag.pdf)
+| Sprint review verslagen (pdf)         | [ReviewVerslagen](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/blob/master/producten/Sprint%206/Sprint_Review_verslag.pdf)
 | Link naar online speelbaar prototype  | [Prototype]
-| Logboek (pdf)                         | [Logboek]()
+| Logboek (pdf)                         | [Logboek](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/blob/master/producten/Sprint%206/Logboek%20Eliza%20Voets.pdf)
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
