@@ -29,10 +29,10 @@ Rift Guardian is een VR-Shooter die zich plaats find op een onbekende planeet. I
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]()
-| Sprint review verslagen (pdf)         | [ReviewVerslagen]()
+| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/blob/master/producten/Sprint%206/Retrospective%20materials/Retrospective_Verslag.pdf)
+| Sprint review verslagen (pdf)         | [ReviewVerslagen](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/blob/master/producten/Sprint%206/Sprint_Review_verslag.pdf)
 | Link naar online speelbaar prototype  | [Prototype]
-| Logboek (pdf)                         | [Logboek]()
+| Logboek (pdf)                         | [Logboek](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/blob/master/producten/Sprint%206/Logboek%20Eliza%20Voets.pdf)
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
