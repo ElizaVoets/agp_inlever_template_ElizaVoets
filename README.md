@@ -23,7 +23,6 @@ Rift Guardian is een VR-Shooter die zich plaats find op een onbekende planeet. I
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen](https://mediacollegeamsterdam.sharepoint.com/:b:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint5/RetroSpective.pdf?csf=1&web=1&e=oIz8pu)
 | Logboek (pdf)                                             | [Logboek](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/blob/master/producten/Sprint%205/Sprint%205%20logboek%20Eliza.pdf)
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams](https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj)
-| Opnames standups (Teams opnames)                          | [Folder op teams]()
 |<img width=500/>|<img width=300/>|
    
 #### Producten Werkproces 3
@@ -31,7 +30,7 @@ Rift Guardian is een VR-Shooter die zich plaats find op een onbekende planeet. I
 | ------ |  ------ |
 | Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/blob/master/producten/Sprint%206/Retrospective%20materials/Retrospective_Verslag.pdf)
 | Sprint review verslagen (pdf)         | [ReviewVerslagen](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/blob/master/producten/Sprint%206/Sprint_Review_verslag.pdf)
-| Link naar online speelbaar prototype  | [Prototype]
+| Link naar online speelbaar prototype  | [Prototype](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/releases/tag/release)
 | Logboek (pdf)                         | [Logboek](https://github.com/ElizaVoets/agp_inlever_template_ElizaVoets/blob/master/producten/Sprint%206/Logboek%20Eliza%20Voets.pdf)
 |<img width=500/>|<img width=300/>|
 
